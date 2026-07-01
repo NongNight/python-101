@@ -1,0 +1,7 @@
+print("Hello World")
+print("Hello World")
+print("Information Network ngineering")
+print("Attakon you will be a good Engineer")
+print("I'm Attakon , I well be a good Engineer")
+print('He ask me "Who got the book"')
+print("I'm good Engineer , He ask me \"Who are you?\"""") 
