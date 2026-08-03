@@ -135,4 +135,4 @@ rows = int(input('How many rows: '))
 for star in range(100): 
     print(star+1, end=" ")
     if (star+1) % rows == 0:
-        print('')
+        print('') 
